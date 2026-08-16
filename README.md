@@ -17,7 +17,7 @@
 
 * 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics & MERN Stack**
 
-* 📫 How to reach me **[muzzammilahmad62435@gmail.com](mailto:muzzammilahmad62435@gmail.com)**
+* 📫 How to reach me **[muzzammilahmad62435@gmail.com](mailto:muzzammil.cse3@gmail.com)**
 
 * ⚡ Fun fact: **I like the sound of mechanical keyboards**
 
