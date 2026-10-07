@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/muzzammil03?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  <a href="https://hits.sh/github.com/muzzammil03/">
+    <img src="https://hits.sh/github.com/muzzammil03.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
+  </a>
 </p>
 ---
 
