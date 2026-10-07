@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer • Data Analyst • React Developer</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
+  <a href="https://muzzammil-portfolio03.netlify.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/muzzammilahmed03/">💼 LinkedIn</a> •
   <a href="mailto:muzzammil.cse3@gmail.com">📧 Email</a> •
   <a href="https://www.behance.net/muzzammilahmad">🎨 Behance</a>
@@ -70,7 +70,7 @@
 | [🎮 Video Game Sales Dashboard](https://github.com/muzzammil03/video-game-sales-dashboard) | Interactive dashboard of global game sales | Power BI |
 | [🍔 Swiggy Clone](https://github.com/muzzammil03/Swiggy-clone) | Food delivery UI with live restaurant data ([Live](https://my-swiggy-clone.netlify.app/)) | React, API |
 
-👉 See all projects on my [portfolio](YOUR_PORTFOLIO_LINK)
+👉 See all projects on my [portfolio](https://muzzammil-portfolio03.netlify.app/)
 
 ---
 
