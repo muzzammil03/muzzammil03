@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muzzammil03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/muzzammil03?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
